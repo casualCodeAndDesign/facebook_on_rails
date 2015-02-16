@@ -15,6 +15,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'simple_form'
 gem 'devise'
 gem 'omniauth-facebook'
+gem 'flat-ui-rails'
+gem 'koala'
 
 
 # Use jquery as the JavaScript library
